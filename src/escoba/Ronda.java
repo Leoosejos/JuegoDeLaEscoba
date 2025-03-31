@@ -1,9 +1,5 @@
 package escoba;
 
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.ObjectOutputStream;
-
 public class Ronda {
     private Jugador jugador1;
     private Jugador jugador2;
